@@ -1,4 +1,7 @@
 # final_summer_project3
+sorry i hate Visual Studio it just doesn't work, i am with pycharm now:
+
+me <3 pycharm
 
 p1: randomaly generates a color palette of 4 colors and my sister says if it looks good, there are 2 arrays for the good and bad palettes.
 p2: there weren't as much good as bad so i downloaded some more.
