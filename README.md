@@ -1,4 +1,4 @@
-# final_summer_project3
+# final_summer_project2
 sorry i hate Visual Studio it just doesn't work as well as pycharm!
 
 p1: randomaly generates a color palette of 4 colors and my sister says if it looks good, there are 2 arrays for the good and bad palettes.
